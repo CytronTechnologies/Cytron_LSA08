@@ -45,7 +45,7 @@ In order to use this library, you must do the following:
 # Library Explanation
 The Library uses the LSA Module with the following Pin Out -
 
-![Image](../.DATA/Images/PORT_A.png)
+![Image](./.DATA/PORT_A.png)
 
 # About LSA08
 
@@ -200,6 +200,6 @@ Let's explore the class now
 - **<font color="#CD00FF">int</font> GetPreviousValue ( )** : To Return the Last Non - 255 Value of the LSA.
 
 # References
-- [LSA08 User Manual](../.DATA/LSA08_User_Manual.pdf).
+- [LSA08 User Manual](./.DATA/LSA08_User_Manual.pdf).
 
 [![Developers Tag](https://img.shields.io/badge/Developer-shashank3199-red.svg)](https://github.com/shashank3199)
