@@ -1,0 +1,22 @@
+#######################################
+###### Classes in the library #########
+#######################################
+
+############ Main class ###############
+LSA08	KEYWORD1
+
+############ Functions ################
+ClearLSA	KEYWORD2
+SetFlag		KEYWORD2
+SetBuffer	KEYWORD2
+AttachSerial	KEYWORD2
+AttachAnalogPin	KEYWORD2
+ReadLSA			KEYWORD2
+GetPreviousValue KEYWORD2
+
+########### Literals ##################
+debugger	LITERAL1
+MODE_SERIAL LITERAL1
+MODE_ANALOG LITERAL1
+BUFFER_OFF 	LITERAL1
+BUFFER_ON 	LITERAL1
